@@ -1,1 +1,11 @@
+# Core MLX stack
+mlx-lm>=0.19.0          # mlx_lm.lora / fuse / generate
 
+# Optional: GGUF conversion (choose ONE route)
+# Route A – use llama.cpp’s convert script (already in llama.cpp repo)
+# Route B – pip-installable helper (uncomment if you prefer)
+# llama-cpp-python>=0.2.88
+
+# Development helpers
+tqdm                    # progress bars during conversion
+numpy                   # MLX dependency, but listed for clarity
