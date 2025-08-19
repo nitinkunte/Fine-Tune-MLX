@@ -110,3 +110,9 @@ PRs welcome—especially data-prep utilities and new model configs!
 
 **License**: MIT  
 **Author**: Nitin Kunte
+
+---
+
+Thanks to 
+1. [https://github.com/ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm)
+2. [https://github.com/ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
